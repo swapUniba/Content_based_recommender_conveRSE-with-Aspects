@@ -1,0 +1,12 @@
+/Models/Doc2Vec/doc2vec_model
+/Models/FastText/fasttext_model
+/Models/FastText/fasttext_model.trainables.vectors_ngrams_lockf.npy
+/Models/FastText/fasttext_model.wv.vectors_ngrams.npy
+/Models/FastText/cc.en.300.bin
+/Models/TFIDF/dictionary_tfidf
+/Models/TFIDF/matrix_tfidf
+/Models/TFIDF/matrix_tfidf.index.npy
+/Models/TFIDF/tfidf_model
+/Models/Word2Vec/word2vec_model
+/Models/Word2Vec/word2vec-google-news-300.bin
+glove.twitter.27B.25d.txt
